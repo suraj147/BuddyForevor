@@ -1,0 +1,21 @@
+div.backgroundall {
+    width: 100%;
+    height: 100%;
+    background: url('../images/home.jpg') repeat;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+div.background1 {
+    width: 100px;
+    height: 150px;
+    background: url('../images/animated-bird-image-0137.gif') repeat;
+    background-size: 100px 150px;
+}
+
+div.background2 {
+    width: 50px;
+    height: 50px;
+    background: url('../images/images/animated-bird-image-0137.gif') repeat;
+    background-size: 50px 50px;
+}

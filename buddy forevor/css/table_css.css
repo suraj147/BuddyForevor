@@ -1,0 +1,43 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
+    background: #f9f9f9;
+}
+
+section {
+    position: relative;
+    padding: 100px 0px;
+}
+
+#registration_form input[type='submit'] {
+    background: #202020;
+    border-radius: 50px;
+    border: 0;
+    color: #ffffff;
+}
+
+#registration_form input[type='submit']:hover {
+    background: #29ca8e;
+    color: #ffffff;
+}
+
+.section-title {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.col-md-4 {
+    padding-bottom: 5px;
+}
+
+#registration_form input[type='reset'] {
+    background: #202020;
+    border-radius: 50px;
+    border: 0;
+    color: #ffffff;
+}
+
+#registration_form input[type='reset']:hover {
+    background: #29ca8e;
+    color: #ffffff;
+}
